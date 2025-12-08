@@ -2,3 +2,5 @@
 #2 Reading
 #3 Breakfast
 #4 Work
+#5 Movies
+#6 GYM

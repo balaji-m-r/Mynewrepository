@@ -1,5 +1,5 @@
 name: hello-world
-run-name: ${{ balaji-m-r }} is learning GitHub Actions
+run-name: ${{ github.actor }} is learning GitHub Actions
 on: push
 jobs:
   my-job:
